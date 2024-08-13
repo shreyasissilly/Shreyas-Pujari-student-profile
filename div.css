@@ -1,0 +1,23 @@
+{
+    margin:0
+    padding:0
+    border:10px
+}
+header{
+    background-color: aliceblue;
+    color: chocolate;
+    padding: 1;
+}
+.details{
+    border: 10px cadetblue;
+    text-align: center;
+    background-color:bisque ;
+}
+.contact{
+    text-align: center;
+    background-color: cadetblue;
+}
+.image{
+   text-align: center
+   
+}
